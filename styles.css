@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(181, 139, 181, 0.73);
+}
+
+.root{
+  display: flex;
+  align-items: stretch;
+}
+
+.container {
+display: flex;
+}
+
+.alltypelists{
+
+
+  border-right: 1px solid black;
+
+}
+
+.duh{
+  border-bottom: 1px solid black;
+}
+
+.duh2{
+  border: 1px solid grey;
+  margin: 2px;
+}
+
+.top{
+  margin-bottom: 60px;
+}
